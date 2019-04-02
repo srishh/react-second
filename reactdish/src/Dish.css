@@ -1,0 +1,15 @@
+.dish-card {
+    border: 2px solid green;
+    border-radius: 5px;
+    margin: 10px;
+    background: linear-gradient(white, rgba(144, 238, 144, 0.151));
+    box-shadow: 3px 3px 3px rgba(207, 171, 13, 0.555);
+}
+
+h3 {
+    color: rgb(207, 172, 13);
+}
+
+p {
+    color: grey;
+}
